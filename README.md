@@ -11,9 +11,11 @@ Laravel Sail と Docker を使って、Tutorial 9〜10 のハンズオンで使�
 - MySQL, phpMyAdmin
 
 ## 学んだこと
-- （**自分の言葉で2〜3項目書きましょう**）
-- 
-- 
+- LaravelSailでの環境構築の順番
+- Sailコマンドのエイリアス設定
+- アプリケーションキー（暗号化キー）の役目
 
 ## 動作確認
-（**どうやって動かして確認するかを記載してください**）
+http://localhost にアクセスして、Laravelのウェルカムページが表示されれば成功
+http://localhost:8080 にアクセスして、phpMyAdminが表示されれば成功
+
